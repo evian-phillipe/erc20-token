@@ -1,15 +1,25 @@
-# ERC20 Token Contract
+# ERC-20 Token Contract
 
-Simple Solidity ERC20-style token for portfolio purposes.
+A Solidity ERC-20 token built with OpenZeppelin for portfolio and deployment demonstration.
 
 ## Features
-- Fixed supply
-- Transfer function
+- ERC-20 standard token
+- Owner-only minting
+- Maximum supply cap
+- Initial supply on deployment
 
-## Tech
+## Stack
 - Solidity
+- Hardhat
+- OpenZeppelin
 - Remix IDE
 - Sepolia testnet
 
 ## Status
-Ready for deployment
+- Contract added
+- Test file added
+- Hardhat config added
+- Ready for Sepolia deployment
+
+## Next Step
+Deploy to Sepolia and add the Etherscan contract link here.
